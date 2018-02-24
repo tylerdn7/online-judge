@@ -1,9 +1,3 @@
-/**
-** Hello World Program
-** Ahasanul Basher Hamza
-** Date: 24/02/18
-***/
-
 <?php
 $_fp = fopen("php://stdin", "r");
 
