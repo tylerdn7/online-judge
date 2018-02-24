@@ -5,7 +5,7 @@ $inputString = fgets($_fp); // get a line of input from stdin and save it to our
 
 // Your first line of output goes here
 print("Hello, World.\n");
-print("Welcome to 30 Days of Code!\n");
+print($inputString);
 // Write the second line of output
 
 fclose($_fp);
